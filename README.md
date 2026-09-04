@@ -94,4 +94,4 @@ Dữ liệu này được cung cấp theo **VietMap Administrative Data License*
 
 ---
 
-Made with ❤️ by [VietMap](https://www.vietmap.vn/) - Vietnam's Leading Provider of Mapping Solutions
+Made with ❤️ by [VietMap](https://www.vietmap.vn/) - Nền tảng bản đồ số toàn diện cho người Việt
